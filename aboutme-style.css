@@ -1,0 +1,40 @@
+p {
+	font-family: sans-serif;
+	color: #3c8ba3
+}
+
+h1  {
+	font-family: sans-serif;
+	color: #1e6cfc
+}
+h2  {
+	font-family: sans-serif;
+	color: #1e6cfc
+}
+h3 {
+	font-family: sans-serif;
+	color: #1e6cfc
+}
+
+body {
+	background-color: #d8e5f2;
+	margin: 0 auto;
+	max-width: 40em
+}
+
+ul {
+	font-family: sans-serif;
+	color: #03befc
+}
+
+a {
+	color: blue
+}
+
+a:visited {
+	color: #a975d1
+}
+
+a:hover {
+	color: grey
+}
